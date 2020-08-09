@@ -14,8 +14,9 @@
 - ⚡ Fun fact **Coffee Lover**
 
 <h3 align="center">🛠 Tech Stack</h3>
-
+<p align="center">
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+</p>
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 <p align="center">
