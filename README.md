@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Yeh</h1>
 <h3 align="center">An Embedded Software Engineer, Project Leader, Business-aware Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yehj0107" alt="yehj0107" /> </p>
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehj0107" alt="yehj0107" /> </p> -->
 
 - 🌱 I’m currently learning **Rust**
 
