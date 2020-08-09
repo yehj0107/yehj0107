@@ -3,7 +3,7 @@
 
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehj0107" alt="yehj0107" /> </p> -->
 
-<!---  - 🔭 I’m currently working on **sscww** -->
+<!---  - 🔭 I’m currently working on [foo](https://foo.bar) -->
 
 - 🌱 I’m currently learning **Rust**
 
@@ -15,7 +15,7 @@
 
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
